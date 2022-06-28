@@ -1,0 +1,41 @@
+{
+    "Basic Monlon Seeds":    {
+        "ItemCategory": "Plant",
+        "StackSize": 99,
+        "Description": "Some Monlon made these, planting them will produce a fruit after 2 days."
+    },
+    "Fancy Monlon Seeds":    {
+        "ItemCategory": "Plant",
+        "StackSize": 99,
+        "Description": "A Monlon must've worked really hard on these, it'll blossom in a week but last a long time after!"
+    },
+    "Rusty Sword":    {
+        "ItemCategory": "Sword",
+        "Damage = 1"
+        "StackSize": 1,
+        "Description": "Watch where you're swinging it. No, seriously."
+    },
+    "Rusty Axe":    {
+        "ItemCategory": "Axe",
+        "WoodLimit": 1,
+        "StackSize": 1,
+        "Description": "It chops down wood."
+    },
+    "Rusty Hoe":    {
+        "ItemCategory": "Hoe",
+        "StackSize": 1,
+        "Description": "Handing this makes you think of your mom. Tills dirt."
+    },
+    "Rusty Pickaxe":    {
+        "ItemCategory": "Pickaxe",
+        "QualityLimit": 1,
+        "StackSize": 1,
+        "Description": "For the rocks."
+    },
+    "Monlon Fruit":    {
+        "ItemCategory": "Fruit",
+        "HealAmount": 25,
+        "StackSize": 99,
+        "Description": "It's for the little guys, is this cannibalism??"
+    },
+}
